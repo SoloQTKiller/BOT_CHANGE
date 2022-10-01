@@ -1,0 +1,39 @@
+{
+  "name": "fowbot",
+  "version": "0.1.0",
+  "description": "Bot para discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SoloQTKiller",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^1.6.3",
+    "currency-formatter": "^1.4.3",
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "fortnite": "^4.1.1",
+    "google": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "jimp": "^0.3.11",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "moment-timezone": "^0.5.21",
+    "ms": "^2.1.1",
+    "opus": "0.0.0",
+    "opusscript": "0.0.6",
+    "parse-ms": "^2.0.0",
+    "twitter": "^1.7.1",
+    "ultron": "^1.1.1",
+    "util-deprecate": "^1.0.2",
+    "weather": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "when": "^3.7.8",
+    "wrappy": "^1.0.2",
+    "ws": "^6.0.0",
+    "ytdl-core": "^0.22.0",
+    "ytsearcher": "^1.2.0"
+  }
+}
